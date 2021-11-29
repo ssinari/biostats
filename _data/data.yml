@@ -1,0 +1,131 @@
+name: Shripad Sinari
+support_dark_mode: true
+fork: false
+
+# Sidebar
+scholar:
+  papers: 31
+  citations: 17423
+  h-index: 18
+  i10-index: 21
+
+contact:
+  address:
+    street: 12151 N Meditation Dr
+    city: Marana
+    state: Az
+    pin: 85658
+  email: shripad.sinari@gmail.com
+  github: ssinari
+  linkedin: shripad-sinari
+  scholar: avKGegEAAAAJ&hl
+  phone: (520) 245-6292 
+  gitlab: 
+  twitter: 
+
+languages:
+  - idiom: English
+  - idiom: Marathi
+  - idiom: Hindi
+
+education:
+  - degree: M.Sc. in Biostatistics
+    university: The University of Arizona
+
+  - degree: M.Sc. in Mathematics
+    university: The University of Arizona
+
+skills:
+  - category: Data types
+    skill: | 
+      Longitudinal data,
+      High-throughput omics data,
+      public health and clinical data.
+  - category: Statistical techniques
+    skill: |
+      Generalized Linear Models (GLM),
+      Mixed-Models,
+      Survival analysis,
+      Statistical Machine Learning,
+      Bayesian data analysis,
+      Compositional data analysis (CoDA).
+  - category: Data analysis software
+    skill: |
+      SAS,
+      R and related ecosystem of packages such as Bioconductor and tidyverse.
+      Machine learning software such as Keras, mlverse, TensorFlow.
+      Bayesian computing software OpenBUGS, JAGS, Stan.
+      Data visualization softwares such as ggplot2, shinyapps, flexdashboards.
+  - category: Databases
+    skill: |
+      REDCap,
+      MySQL using RODBC interface.
+
+# Profile
+profile: |
+  Experienced biostatistician with strong applied statistics and computing background. 
+  Hands on experience in writing statistical analysis plans (SAP), designing experiments 
+  and providing insightful, actionable reports. Effective at communicating complex results 
+  to diverse audiences, and ensuring understanding of requirements at all levels of 
+  a cross functional team for smooth collaboration and timely execution of projects.
+
+# Experience
+experience:
+  - role: Statistician
+    time: Jan 2013 to present
+    company: BIO5 Institute, The University of Arizona.
+    details: |
+      Provides statistical and computing expertise in basic, applied and clinical research.  
+  - role: Staff Scientist
+    time: Nov 2011 to Jan 2013
+    company: Life Technologies, Foster City, California.
+    details: |
+      Provided diagnostic and analytical support for Ion Torrent Technology.
+  - role: Bioinformatician
+    time: Mar 2008 to Nov 2011
+    company: Translational Genomics Research Institute (TGen), Phoenix, Arizona.
+    details: |
+      Developed analysis workflows and structural variation algorithms.
+
+highlights:
+  - contribution: Statistical
+    items:
+      - Decided appropriate statistical strategies on several grants and projects.
+      - Analyzed data with missing or repeated measures, time to event response or relative abundance measures such as RNA-Seq and microbiome datasets.
+      - Ensured data provenance with good data hygiene.
+      - Used Bayesian, empirical Bayes, and frequentist techniques as appropriate.
+      - Managed client expectations with timely delivery of complex analyses, meeting pre and post funding deliverables, resulting in highly cited publications.
+      - Successfully completed support as primary statistician on multi- center, multi-year complex grants and projects (Program Projects and R01).
+
+  - contribution: Computing
+    items:
+     - Operationalized statistical strategies with efficient computing.
+     - Performed quality control, data cleaning and data engineering.
+     - Designed, developed, and implemented appropriate computing infrastructure required for study monitoring and analyses.
+     - Developed reusable and modular software components such as R packages, analytic workflows, and data visualizations such as shiny apps and dashboards.
+     - Implemented best computing practices using knitr, R Notebooks, version control like Git and containers like Docker.
+  - contribution: Team 
+    items: |
+      Exchanged ideas with colleagues to learn and implement emerging analytical and computational techniques. Mentored other team members and student collaborators as required.
+projects:
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

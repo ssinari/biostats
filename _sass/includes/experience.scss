@@ -1,0 +1,26 @@
+.experience {
+    margin-bottom: 20px;
+    .title {
+        @include header;
+    }
+    .experience-item {
+        margin-bottom: 20px;
+        .role {
+            @include body-text;
+            font-weight: bold;
+            .time {
+                @include body-text;
+                font-weight: normal;
+                float: right;
+                color: var(--fg-color-title-sm);
+            }
+        }
+        .company {
+            @include body-text;
+	    font-style: italic;
+        }
+        .details {
+            @include body-text;
+        }
+    }
+}

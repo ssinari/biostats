@@ -1,0 +1,17 @@
+.skills {
+    margin-bottom: 20px;
+    .title {
+        @include header;
+	margin-bottom: 15px;
+    }
+    .skills-item {
+        margin-bottom: 20px;
+        .category {
+            @include body-text;
+            font-weight: bold;
+        }
+        .skill {
+            @include body-text;
+        }
+    }
+}

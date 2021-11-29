@@ -1,0 +1,30 @@
+.scholar {
+    margin-bottom: 20px;
+    .title {
+        @include header;
+        margin-bottom: 15px;
+    }
+    .scholar-item {
+	display: grid;
+        margin-bottom: 20px;
+	justify-content: space-between;
+	grid-template-columns: 1fr 1fr;
+        .sl {
+            @include body-text;
+	    text-align: left;
+            display: inline;
+            .name{
+		font-weight: bold;
+	    }
+        }
+	.sr {
+            @include body-text;
+	    text-align: right;
+            .name{
+		font-weight: bold;
+		display: inline;
+	    }
+        }
+
+    }
+}

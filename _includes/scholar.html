@@ -1,0 +1,30 @@
+{% assign scholar = site.data.data.scholar %}
+{% if scholar %}
+<section class="scholar">
+    <div class="title">Scholarly Profile</div>
+    <div class="scholar-item">
+      <papers>
+	<div class = "sl">
+	  <div class="sl name">Papers:</div>
+	  {{scholar.papers}}
+	</div>
+      </papers>
+      <citations>
+	<div class = "sr">
+	  <div class="sr name">Citations: </div>
+	  {{scholar.citations}}
+	</div>
+      </citations>
+      <hindex><div class = "sl">
+	  <div class="sl name">h-index:</div>
+	  {{scholar.h-index}}
+	</div>
+      </hindex>
+      <iindex><div class = "sr">
+	  <div class="sr name">i10-index:</div>
+	  {{scholar.i10-index}}
+	  </div>
+      </iindex>
+    </div>
+</section>
+{% endif %}

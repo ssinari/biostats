@@ -1,0 +1,15 @@
+title: Biostatistician | Shripad Sinari
+description:  Resume
+url: https://ssinari.github.io/jekyll-cv
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
