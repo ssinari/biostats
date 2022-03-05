@@ -39,7 +39,7 @@ skills:
   - category: Data types
     skill: | 
       Longitudinal data,
-      High-throughput omics data,
+      high-throughput omics data,
       public health and clinical data.
   - category: Statistical techniques
     skill: |
@@ -64,7 +64,7 @@ skills:
 # Profile
 profile: |
   Experienced biostatistician with strong applied statistics and computing background. 
-  Hands on experience in writing statistical analysis plans (SAP), designing experiments 
+  Hands-on experience in writing statistical analysis plans (SAP), designing experiments 
   and providing insightful, actionable reports. Effective at communicating complex results 
   to diverse audiences, and ensuring understanding of requirements at all levels of 
   a cross functional team for smooth collaboration and timely execution of projects.
